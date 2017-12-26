@@ -10,7 +10,7 @@ My list of Things I Want To Work On has now become big enough that I can't keep 
 | Personal Website | N/A | Build my own personal website with sample code, design, projects, bio, opinions etc. |
 | The Dictionary of Obscure Sorrows | N/A | A project to redesign [The Dictionary Of Obscure Sorrows](http://www.dictionaryofobscuresorrows.com/). It will involve writing a web scraper to get the content from TDOOS, and working on front-end design skills to make a beautiful application. This may be a good opportunity to explore Node, React, and further JavaScript. |
 | Data Science and the Quran | N/A | Kaggle has a [dataset](https://www.kaggle.com/zusmani/the-holy-quran) of the Quran in its original Arabic and 20 different translations. There are a few ideas for projects on the Kaggle page. There would be no specific aim of this project, only to play about and explore data science. Having read Arabic at university, this dataset is of particular interest to me. |
-| Hello World, Android Edition | N/A | Write a simple 'Hello, world' application for Android. |
+| Simple Android App | N/A | Write a simple application for Android, such as an alarm clock. |
 | What's Happening? | N/A | A simple Alexa Skill allowing a user to ask Alexa what they're doing, and for Alexa to respond with the next few events in their calendar. |
 | Book Recommendations | N/A | An application that uses unsupervised machine learning to recommend books for a user based on their reviews of previous books. |
 
