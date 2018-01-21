@@ -14,6 +14,7 @@ My list of Things I Want To Work On has now become big enough that I can't keep 
 | What's Happening? | N/A | A simple Alexa Skill allowing a user to ask Alexa what they're doing, and for Alexa to respond with the next few events in their calendar. |
 | Book Recommendations | N/A | An application that uses unsupervised machine learning to recommend books for a user based on their reviews of previous books. |
 | Digital business cards | N/A | A mobile application to allow a user to create a simple digital business card, and share that with another user via NFC. Potential additional functionality: search by date/event exchanged, add (character-limited (500?)) notes to a card, add reminders for follow-up actions. |
+| Newsletter application | N/A | A mobile app to allow people to sign up to and view email newsletters natively. |
 
 ## Completed
 
